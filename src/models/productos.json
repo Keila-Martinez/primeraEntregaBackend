@@ -1,0 +1,103 @@
+[
+    {
+        "id": "001",
+        "title": "Comida para Perro Adulto",
+        "description": "Alimento balanceado para perros adultos de todas las razas.",
+        "price": 30.00,
+        "thumbnail": [],
+        "code": "CPAD001",
+        "stock": 50,
+        "status": true
+    },
+    {
+        "id": "002",
+        "title": "Arena para Gatos Aglomerante",
+        "description": "Arena para gatos que facilita la limpieza, con alta capacidad de absorción.",
+        "price": 15.00,
+        "thumbnail": [],
+        "code": "AGA002",
+        "stock": 100,
+        "status": true
+
+    },
+    {
+        "id": "003",
+        "title": "Juguete de Cuerda para Perros",
+        "description": "Juguete resistente de cuerda, ideal para juegos de tirar y aflojar.",
+        "price": 10.00,
+        "thumbnail": [],
+        "code": "JCDP003",
+        "stock": 75,
+        "status": true
+    },
+    {
+        "id": "004",
+        "title": "Pecera de Vidrio 20L",
+        "description": "Pecera de vidrio de 20 litros, incluye filtro y decoraciones básicas.",
+        "price": 50.00,
+        "thumbnail": [],
+        "code": "PV20L004",
+        "stock": 20,
+        "status": true
+    },
+    {
+        "id": "005",
+        "title": "Jaula para Hamster",
+        "description": "Jaula espaciosa para hamster con accesorios incluidos.",
+        "price": 35.00,
+        "thumbnail": [],
+        "code": "JH005",
+        "stock": 30,
+        "status": true
+    },
+    {
+        "id": "006",
+        "title": "Shampoo para Perros Antipulgas",
+        "description": "Shampoo antipulgas y garrapatas para perros, fórmula suave y efectiva.",
+        "price": 12.00,
+        "thumbnail": [],
+        "code": "SPA006",
+        "stock": 60,
+        "status": true
+    },
+    {
+        "id": "007",
+        "title": "Rascador para Gatos",
+        "description": "Rascador para gatos con postes de sisal y plataformas.",
+        "price": 40.00,
+        "thumbnail": [],
+        "code": "RCG007",
+        "stock": 25,
+        "status": true
+    },
+    {
+        "id": "008",
+        "title": "Correa Extensible para Perros",
+        "description": "Correa extensible para perros de hasta 20kg, con freno y retroceso rápido.",
+        "price": 20.00,
+        "thumbnail": [],
+        "code": "CEP008",
+        "stock": 40,
+        "status": true
+    },
+    {
+        "id": "009",
+        "title": "Comedero Automático para Gatos",
+        "description": "Comedero automático programable para gatos, capacidad de 2 litros.",
+        "price": 45.00,
+        "thumbnail": [],
+        "code": "CAG009",
+        "stock": 15,
+        "status": true
+    },
+    {
+        "id": "010",
+        "title": "Casa para Perros de Plástico",
+        "description": "Casa para perros de plástico resistente, fácil de limpiar y montar.",
+        "price": 70.00,
+        "thumbnail": [],
+        "code": "CPP010",
+        "stock": 10,
+        "status": true
+    }
+]
