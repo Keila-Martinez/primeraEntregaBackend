@@ -47,6 +47,7 @@ class ProductManager {
             throw error;
         }
     }
+    
     async getProducts() {
         try {
             const arrayProductos = await this.leerArchivo();
